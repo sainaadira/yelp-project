@@ -3,7 +3,7 @@ This is a prototype of yelp.com. It is responsive desktop, tablet and mobile dev
 
 **Link to project:** https://yelpsite.netlify.com/  
 
-![alt tag] ()
+![alt tag](yelp.png)
 
 ## How it's made:
 **Tech Used** HTML and CSS
